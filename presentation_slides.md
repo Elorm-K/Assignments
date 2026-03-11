@@ -223,20 +223,17 @@ Participants *reported* productivity gains. Do the AI-assisted emails, reports, 
 ---
 
 <!-- Slide 13: Engagement Activity -->
-## Let's Think Together
+## Let's Talk About It
 
-**Turn-and-talk (3 minutes):**
+**Discussion question:**
 
-> Think of one task you do regularly — academic or professional.
-> Is your current or imagined GenAI use for that task best described as a **copilot** (conversational, back-and-forth) or a **workflow agent** (autonomous, runs on its own)?
-> What would have to change — technically *or* organizationally — for you to trust an agent with it?
+> If your department deployed its own private GenAI tool tomorrow — same interface as ChatGPT, but your data never leaves the organization —
+> **what's the first task you'd hand off to it, and what's one thing you'd never let it touch?**
 
-*Share with a partner → 2–3 responses to the group*
+*No right answer — just be honest about where your own line is and why.*
 
 ---
 
-**Backup discussion question** *(if the activity stalls):*
-
-> The paper found 44% of respondents worried about hallucinations — yet 82% had already used ChatGPT anyway.
-> What explains the gap between stated concern and actual behavior?
-> Is it rational, or is it a form of risk normalization?
+**Follow-up if the conversation runs:**
+> The scientists in this study were writing paper introductions with ChatGPT but hesitant to let it touch their actual data.
+> Does that match how you think about it — or do you draw the line somewhere different?
