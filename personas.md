@@ -20,13 +20,14 @@
 
 ## Persona 1 — Dorothy "Dot" Harmon
 
-**Snapshot:** A 74-year-old retired teacher who wants to record her life stories by voice, alone, without waiting for family to help her navigate technology.
+**Snapshot:** A 74-year-old retired teacher who wants to record her life stories by voice on her own smartphone, without needing to borrow a laptop or wait for family to help.
 
 **Goals**
-- Record voice memories independently, without needing someone present to assist
+- Record voice memories independently on her own smartphone, without borrowing a device or waiting for a visit
 - Leave a meaningful, permanent life story for her grandchildren
 - Use the app without typing — physical limitations make keyboard entry painful
 - Complete a recording in a single session without losing progress
+- Access her saved memories anytime from her phone, not only when a laptop is available
 
 **Needs / Motivations**
 - A voice-first interface where recording is reachable in 1–2 clicks from the home screen
@@ -43,17 +44,17 @@
 - Distrust of AI means any unexpected "AI has improved your text" message would feel like a violation, not a feature
 
 **Constraints**
-- **Device:** No personal laptop; relies on borrowed family computer during infrequent visits
-- **Environment:** Uses the app intermittently — sessions are short and unpredictable
+- **Device:** Smartphone is her only personal device; no laptop. Mobile support is what enables her independence — without it, she can only use the app during family visits on a borrowed computer
+- **Environment:** Uses the app intermittently — sessions are short and unpredictable; must work on a small screen with large tap targets
 - **Social context:** Limited tech support access; family visits only a few times per month
 - **Physical:** Hand pain limits typing; voice is the only sustainable input method long-term
 - **Policy:** Uncomfortable with anything that feels like "posting to the internet"
 
 **Success Criteria — "It's working if…"**
-- She can press Record, speak her story, and press Save in under 3 minutes with no assistance
+- She can press Record, speak her story, and press Save in under 3 minutes with no assistance — on her phone
 - She can re-open the app weeks later and find her recording exactly where she left it
 - She never encounters an error message she doesn't understand
-- She completes her first memory without asking anyone for help
+- She completes her first memory without asking anyone for help, using only her smartphone
 
 **Evidence**
 
@@ -93,7 +94,7 @@
 - Unclear save states (no confirmation message, spinner with no resolution) erode trust in the app's reliability
 
 **Constraints**
-- **Device:** Home desktop computer; not mobile-first
+- **Device:** Desktop primary for managing and uploading large photo batches; may use mobile to browse or share the archive, but bulk operations need a larger screen and keyboard
 - **Time:** Willing to invest time in setup, but each session must feel like it made visible progress
 - **Access:** Moderate tech comfort — can manage file uploads but won't troubleshoot independently
 - **Policy:** Strong ownership mindset around personal content; expects the app to respect that
@@ -143,6 +144,7 @@
 - If she can't recover the archive to a new device in case of hardware failure, the archive feels fragile
 
 **Constraints**
+- **Device:** Uses both desktop and mobile comfortably; likely sets the app up on desktop but checks on her parent's progress from her phone. Critically, her parent may only have a smartphone — mobile usability is a proxy concern she evaluates on their behalf
 - **Social context:** Decision-maker for a less tech-literate dependent; her approval is the adoption gateway
 - **Time:** Evaluates the app in one sitting — proceeds or doesn't
 - **Policy:** Professionally conditioned to think about institutional liability and data protection
@@ -193,7 +195,7 @@
 - An app that doesn't answer infrastructure questions upfront costs him time he won't spend
 
 **Constraints**
-- **Device:** Desktop primary; expects phone access as secondary
+- **Device:** Desktop primary, but cross-device sync to mobile is a stated requirement — he explicitly asked whether the app is multi-platform and phone-accessible. An app without mobile access fails his evaluation criteria
 - **Time:** Evaluates in a single focused session; doesn't return for a second look if first impression fails
 - **Access:** High tech literacy — expects modern UX standards around save states and data confirmation
 - **Policy:** Professionally sensitive to data liability and breach risk
