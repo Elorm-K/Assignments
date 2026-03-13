@@ -1,0 +1,25 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "1d532000608f",
+  "strategy": "manual-commit",
+  "branch": "personas-498",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "personas.md"
+  ],
+  "sessions": [
+    {
+      "metadata": "/1d/532000608f/0/metadata.json",
+      "transcript": "/1d/532000608f/0/full.jsonl",
+      "content_hash": "/1d/532000608f/0/content_hash.txt",
+      "prompt": "/1d/532000608f/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 36,
+    "cache_creation_tokens": 86409,
+    "cache_read_tokens": 603018,
+    "output_tokens": 15979,
+    "api_call_count": 18
+  }
+}

@@ -1,0 +1,31 @@
+<ide_opened_file>The user opened the file /Users/cyril/Desktop/Lab7a.py in the IDE. This may or may not be related to the current task.</ide_opened_file>
+hello
+
+---
+
+Working on a UX assignment and I am working on designing persona's for my project
+
+---
+
+based on the milestone doc, develop 5 different personas, explainning the reason for each persona and justifying why they should be chosen. Personas a should follow persona development metrics (cite the reason for adding certain persona information)
+
+---
+
+let me have your final work now, I will review and comment
+
+---
+
+these are the core needed stuff:
+Persona name + 1-line snapshot
+Goals (3-5 bullets)
+Needs / motivations (3-5 bullets)
+Pain points / breakdown scenario (3-5 bullets)
+Constraints (time, access, policy, social context, device, environment, etc.)
+Success criteria (“It’s working if…” from this persona’s perspective) (make this contextual based on our project)
+Evidence (required): at least 3 evidence points per persona, each labeled with:
+Participant ID (e.g., P3), stakeholder type (if relevant), and whether it’s a quote or observation
+Each persona needs to link to at least 1 theme from Milestone 1
+
+---
+
+push the personas file to a new branch called "personas 498"
