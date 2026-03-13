@@ -1,0 +1,35 @@
+{
+  "cli_version": "0.5.0",
+  "checkpoint_id": "272e3d3f7ca2",
+  "session_id": "ed58b5bc-2fa4-4914-9b3e-d00a3379ed1f",
+  "strategy": "manual-commit",
+  "created_at": "2026-03-13T00:42:46.150658Z",
+  "branch": "personas-498",
+  "checkpoints_count": 0,
+  "files_touched": [
+    "personas.md"
+  ],
+  "agent": "Claude Code",
+  "turn_id": "540f6cb85f32",
+  "checkpoint_transcript_start": 93,
+  "transcript_lines_at_start": 93,
+  "token_usage": {
+    "input_tokens": 21,
+    "cache_creation_tokens": 8144,
+    "cache_read_tokens": 869029,
+    "output_tokens": 3882,
+    "api_call_count": 15
+  },
+  "session_metrics": {
+    "turn_count": 9
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-03-13T00:42:46.037795Z",
+    "agent_lines": 10,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 10,
+    "agent_percentage": 100
+  }
+}

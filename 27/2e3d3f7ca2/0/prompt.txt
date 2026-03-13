@@ -1,0 +1,9 @@
+what are constaints in this UX context?
+
+---
+
+the app were trying to build might also beneeded on mobile
+
+---
+
+yes, so we need to modify some of these personas
